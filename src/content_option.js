@@ -7,9 +7,9 @@ const meta = {
 const introdata = {
     title: "I’m Ali Dhanani",
     animated: {
-        first: "I'm an application developer",
-        second: "An application security expert",
-        third: "A car enthusiast",
+        first: "an application developer",
+        second: "an application security expert",
+        third: "a car enthusiast",
     },
     description: "Development of software with up to date security aspect for client satisfaction",
     your_img_url: "/MyPic.jpg",
