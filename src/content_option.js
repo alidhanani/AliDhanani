@@ -68,15 +68,19 @@ const skills = [{
 ];
 
 const services = [{
-        title: "UI & UX Design",
+        title: "Mobile App Developer",
         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
     },
     {
-        title: "Mobile Apps",
+        title: "Embedded System Design",
         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
     },
     {
-        title: "Wordpress Design",
+        title: "Web Development",
+        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+    },
+    {
+        title: "Backend Development",
         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
     },
 ];
@@ -86,84 +90,98 @@ const education = [{
     institue: "Universite Libre De Bruxelles",
     year: "2019 to 2021",
     score: "Satisfactory",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+    description: `Modules of Specialization:
+    - Computational Intelligence (Artificial Intelligence, Machine Learning, Information Visualization)
+    - Web Technologies (Advanced Databases, Data Warehouse)
+    - Critical System (Embedded Design, Formal Verification)
+    Thesis:
+    - Designing and developing a secure and privacy-aware smart hub for smart home ecosystem (Sirris)`,
 },
 {
     title: "Bachelors in Computer Science",
     institue: "Shaheed Zulfikar Ali Bhutto Institute Of Science And Technology",
     year: "2014 to 2018",
-    score: "3.24/4.00",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+    score: "3.28/4.00",
+    description: `Activities and societies: ACM Course of Android Development
+    ACM Course of Game Development Activities and societies: ACM Course of Android Development ACM Course of Game Development 
+    General:
+    During year in BS Computer Science, i had more of my focus towards learning software development and having a good command on Language such as C#, Java, C/C++, Python. Further more all classes had presentation and final project. With the help of presentation i had the motivation of being having confidence in speaking and facing the crowd.
+    My University elective courses include Artificial Intelligence, Ethical Hacking, Android Development, Graphic Design, Embedded Programming and Data Science.`,
 },
 {
     title: "Computer Security",
     institue: "SecAppDev (Secure Application Development)",
     year: "2022",
     score: "1.66 ECT",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+    description: `Activities and societies: Identify API Vulnerability, Cryptography, OAuth 2.0, OWASP, Hands on experience with Web Security`,
 },
 ];
 
 const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "/img/Apple.jpeg",
+        desctiption: "Traffic Signal on Swift",
+        link: "https://github.com/alidhanani/TrafficSignal",
     },
     {
-        img: "https://picsum.photos/400/800/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "/img/clang.png",
+        desctiption: "Simple Calculator on C",
+        link: "https://github.com/alidhanani/SystemOnC",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "/img/charp.png",
+        desctiption: "Unity Project for Face Tracking",
+        link: "https://github.com/alidhanani/FaceTracking",
     },
     {
-        img: "https://picsum.photos/400/600/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "/img/java.png",
+        desctiption: "Custom Compiler",
+        link: "https://github.com/alidhanani/Compiler",
     },
     {
-        img: "https://picsum.photos/400/300/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "/img/python.png",
+        desctiption: "Barcelona Data Visual",
+        link: "https://github.com/alidhanani/BarcelonaDataVisual",
     },
     {
-        img: "https://picsum.photos/400/700/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "/img/python.png",
+        desctiption: "Machine Learning Algorithm",
+        link: "https://github.com/alidhanani/MachineLearning",
     },
 
     {
-        img: "https://picsum.photos/400/600/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "/img/python.png",
+        desctiption: "Human Detector",
+        link: "https://github.com/alidhanani/HumanDetector",
     },
     {
-        img: "https://picsum.photos/400/300/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "/img/clang.png",
+        desctiption: "Mastermind game with multiprocessor",
+        link: "https://github.com/alidhanani/rtos-2",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "/img/python.png",
+        desctiption: "Real Time Operating System Schedular",
+        link: "https://github.com/alidhanani/rtos_project_1",
     },
     {
-        img: "https://picsum.photos/400/550/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "/img/Apple.jpeg",
+        desctiption: "Tic Tac Toe",
+        link: "https://github.com/alidhanani/TicTacToeGame",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "/img/java.png",
+        desctiption: "Guide Us Mobile App",
+        link: "https://github.com/alidhanani/GuideUs",
     },
     {
-        img: "https://picsum.photos/400/700/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "/img/react.png",
+        desctiption: "Simple Navigation App",
+        link: "https://github.com/alidhanani/NavigationReact",
+    },
+    {
+        img: "/img/ulb.png",
+        desctiption: "Master Thesis",
+        link: "https://github.com/alidhanani/MasterThesis",
     },
 ];
 
