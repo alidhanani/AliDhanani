@@ -68,20 +68,20 @@ const skills = [{
 ];
 
 const services = [{
-        title: "Mobile App Developer",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Mobile Application Developer",
+        description: "Development of iOS and Android cross platform and native application. Using core tools with minimum third party library.",
     },
     {
         title: "Embedded System Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        description: "Development of system level software in a secure enviroment to avoid vulnerability. Experienced with tools such as Arduino and Raspberry Pi.",
     },
     {
         title: "Web Development",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        description: "Secure web development using tools such as React and Angular. Desiging a well interactive user frontend interface.",
     },
     {
         title: "Backend Development",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        description: "Development of a secure Backend server, to avoid server level malware. Desiging a fast and responsive backend service.",
     },
 ];
 
@@ -183,6 +183,11 @@ const dataportfolio = [{
         desctiption: "Master Thesis",
         link: "https://github.com/alidhanani/MasterThesis",
     },
+    {
+        img: "/img/more.png",
+        desctiption: "More Projects",
+        link: "https://github.com/alidhanani/",
+    },
 ];
 
 const contactConfig = {
@@ -199,8 +204,6 @@ const socialprofils = {
     facebook: "https://www.facebook.com/ali.dhanani.61819/",
     linkedin: "https://www.linkedin.com/in/alidhanani61819/",
     twitter: "https://twitter.com/AliDhanani95",
-    youtube: "https://youtube.com",
-    twitch: "https://twitch.com",
 };
 export {
     meta,
