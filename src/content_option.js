@@ -184,7 +184,7 @@ const dataportfolio = [{
         link: "https://github.com/alidhanani/MasterThesis",
     },
     {
-        img: "/img/more.png",
+        img: "/img/More.png",
         desctiption: "More Projects",
         link: "https://github.com/alidhanani/",
     },
