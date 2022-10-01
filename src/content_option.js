@@ -26,13 +26,13 @@ const worktimeline = [{
         place: "Brussels, Belgium",
     },
     {
-        jobtitle: "Trainee Software Engineer",
+        jobtitle: "Software Engineer",
         where: "Sirris",
         date: "07/2020 - 06/2021",
         place: "Brussels, Belgium",
     },
     {
-        jobtitle: "Associate iOS Developer",
+        jobtitle: "iOS Developer",
         where: "Livewire Labs",
         date: "05/2019 - 08/2019",
         place: "Karachi, Pakistan",
