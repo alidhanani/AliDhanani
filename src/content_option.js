@@ -20,10 +20,16 @@ const dataabout = {
     aboutme: "A knowledgeable young person who is able to provide Application Frontend and Backend Development Support as part of a Software Developing Service. I am flexible, resourceful, and willing to take full ownership of user problems until they are fully resolved.",
 };
 const worktimeline = [{
+        jobtitle: "Technical Lead/Full Stack Developer",
+        where: "Agifly",
+        date: "05/2023 - 02/2024",
+        place: "Brussels, Belgium",
+    },
+    {
         jobtitle: "Software Engineer",
         where: "nextAuth",
         date: "02/2021 - Present",
-        place: "Brussels, Belgium",
+        place: "Leuven, Belgium",
     },
     {
         jobtitle: "Software Engineer",
