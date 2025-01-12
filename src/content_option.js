@@ -19,7 +19,13 @@ const dataabout = {
     title: "Who is Ali Dhanani?",
     aboutme: "A knowledgeable young person who is able to provide Application Frontend and Backend Development Support as part of a Software Developing Service. I am flexible, resourceful, and willing to take full ownership of user problems until they are fully resolved.",
 };
-const worktimeline = [{
+const worktimeline = [
+    {
+        jobtitle: "Senior Software Engineer",
+        where: "Whitson",
+        date: "08/2024 - Present",
+        place: "Oslo, Norway",
+    },{
         jobtitle: "Technical Lead/Full Stack Developer",
         where: "Agifly",
         date: "05/2023 - 02/2024",
@@ -56,8 +62,12 @@ const skills = [{
         value: 80,
     },
     {
-        name: "Objective-C",
-        value: 50,
+        name: "Vue.js",
+        value: 70,
+    },
+    {
+        name: "React.js",
+        value: 70,
     },
     {
         name: "Java",
@@ -68,7 +78,11 @@ const skills = [{
         value: 70,
     },
     {
-        name: "Go",
+        name: "Python (Flask)",
+        value: 50,
+    },
+    {
+        name: "Git",
         value: 50,
     },
 ];
